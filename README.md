@@ -12,6 +12,6 @@ A simple gui based quiz app made using Tkinter
 ## Screenshots  
 Here is a preview of the app interface:  
 
-![Quiz App Screenshot](images/preview.png)  
+![Quiz App Screenshot](Quiz-app/images/preview.png)  
 
 **
